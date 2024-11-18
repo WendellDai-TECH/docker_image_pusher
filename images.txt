@@ -7,7 +7,7 @@ redis
 apache/superset
 zookeeper
 tdengine/tdengine
-linshellfeng/datax_web
+linshellfeng/datax_web:3.0.1
 grafana/grafana
 elasticsearch
 #支持私库
